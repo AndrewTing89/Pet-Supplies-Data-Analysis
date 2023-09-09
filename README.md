@@ -1,6 +1,10 @@
 # Pet-Supplies-Data-Analysis
 Detailed analysis of pet supplies data as part of the DataCamp Data Analyst Associate Practical Exam. The project encompasses data exploration, cleaning, visualization, and insights derivation, showcasing data analytics proficiency and offering actionable recommendations.
 
+## Publication:
+Please visit this link here to see the report:
+https://app.datacamp.com/workspace/w/df8b5c67-00d5-43d7-bce2-a842cc74a53c
+
 ## Introduction:
 This repository showcases the practical exam for the Data Analyst Associate position. The project revolves around a dataset containing information about various pet supplies, such as product details, sales, ratings, and repeat purchases. The objective of this examination was to delve deep into data exploration, cleaning, visualization, and deriving actionable insights.
 
